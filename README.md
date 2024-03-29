@@ -2,7 +2,7 @@
 
 Welcome to Expense Tracker with History! This is a simple web application developed to help you track your expenses and income conveniently.
 
-(![Screenshot 2024-03-29 112140](https://github.com/GN-coding/CodeAlpha_ExpenseTraker/assets/159869920/7bb357cc-e63a-49fd-b378-7ff8060d477c)
+![Screenshot 2024-03-29 112140](https://github.com/GN-coding/CodeAlpha_ExpenseTraker/assets/159869920/7bb357cc-e63a-49fd-b378-7ff8060d477c)
 
 ## Features
 
